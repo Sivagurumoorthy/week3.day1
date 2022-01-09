@@ -1,0 +1,26 @@
+              SINGLE INHERITANCE
+
+                PARENT CLASS -----> CHILD CLASS
+
+           MULTI LEVEL INHERITANCE
+
+            GRANDPARENT CLASS-----> PARENT CLASS------> CHILD CLASS
+
+           HIERARCHIAL INHERITANCE
+
+                               -------------> CHILD CLASS-1
+                              /
+ PARENT CLASS/
+                            \
+                             \
+                              -------------> CHILD CLASS-2
+
+HYBRID INHERITANCE
+
+
+                               -------------> PARENT CLASS-1----------> CHILD CLASS
+                              /
+ GRANDPARENT/
+                            \
+                             \
+                              -------------> PARENT CLASS-2
